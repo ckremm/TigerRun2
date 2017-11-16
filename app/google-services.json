@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "157827890928",
+    "firebase_url": "https://tigerrun-56fad.firebaseio.com",
+    "project_id": "tigerrun-56fad",
+    "storage_bucket": "tigerrun-56fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157827890928:android:19a8e03a604bb719",
+        "android_client_info": {
+          "package_name": "com.example.cj.tigerrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157827890928-ivuhp5h7kl0ovjp8kjvqpkasl74afj9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cj.tigerrun",
+            "certificate_hash": "abdf028351f8602da0effb347c565323c3300326"
+          }
+        },
+        {
+          "client_id": "157827890928-agfodo0ragij65e1s5bnaau8uc412s04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiq2owUsGnQicNym08TrCmqhn3v2HGZ4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157827890928-agfodo0ragij65e1s5bnaau8uc412s04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

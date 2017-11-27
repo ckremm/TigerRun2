@@ -1,4 +1,4 @@
-package com.example.cj.tigerrun;
+package com.example.cj.running;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
+import com.example.cj.tigerrun.R;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;

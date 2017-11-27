@@ -1,4 +1,4 @@
-package com.example.cj.tigerrun;
+package com.example.cj.running;
 
 import android.app.IntentService;
 import android.content.Intent;

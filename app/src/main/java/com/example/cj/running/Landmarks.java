@@ -1,4 +1,4 @@
-package com.example.cj.tigerrun;
+package com.example.cj.running;
 
 /**
  * Created by CJ on 11/20/2017.

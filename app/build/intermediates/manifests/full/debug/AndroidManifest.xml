@@ -69,6 +69,7 @@
         <activity
             android:name="com.example.cj.tigerrun.Map"
             android:label="@string/title_activity_map" />
+        <activity android:name="com.example.cj.running.TrackList" />
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"

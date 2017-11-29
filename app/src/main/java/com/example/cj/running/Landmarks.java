@@ -22,6 +22,15 @@ public class Landmarks {
 
         // Watt Center.
         CLEMSON.put("Watt Family Center", new LatLng(34.67595302874027, -82.83682249577026));
+
+        //Tillman
+        CLEMSON.put("Tillman Hall", new LatLng(34.67992337862985, -82.83705853016357));
+
+        //McAdams
+        CLEMSON.put("McAdams Hall", new LatLng(34.67614713916038, -82.83431194813232));
+
+        //Amphitheater
+        CLEMSON.put("Amphitheater", new LatLng(34.67842349104373, -82.83620022327881));
     }
 
 }

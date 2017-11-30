@@ -16,6 +16,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -40,24 +44,24 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -112,6 +116,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_design_error.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\color\\design_error.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
@@ -124,6 +132,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
@@ -132,20 +144,24 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_mode_bar.xml.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_abc_hint_foreground_material_light.xml.flat",
@@ -168,12 +184,16 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
@@ -188,12 +208,24 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_tooltip_exit.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\anim\\tooltip_exit.xml"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -232,6 +264,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -240,8 +276,16 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
@@ -252,12 +296,16 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -290,6 +338,10 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -336,16 +388,20 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_popup_exit.xml.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
@@ -362,6 +418,10 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -444,20 +504,20 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_dialog_title_material.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -492,12 +552,12 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -508,6 +568,14 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -516,12 +584,12 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_text_cursor_material.xml.flat",
-        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -704,6 +772,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
@@ -752,6 +824,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_alert_dialog_material.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_alert_dialog_material.xml"
     },
@@ -764,6 +840,14 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
@@ -774,6 +858,14 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -790,6 +882,10 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23_abc_tint_default.xml.flat",
@@ -868,6 +964,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ce22fac385b172a31839bf5947441052\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\ce22fac385b172a31839bf5947441052\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
@@ -898,6 +998,10 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
@@ -944,6 +1048,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1190a68d93bd8d47f750898fa8116e52\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
@@ -980,8 +1088,16 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1020,12 +1136,20 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1050,6 +1174,10 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_btn_radio_material.xml.flat",
@@ -1086,6 +1214,14 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_avd_show_password.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
@@ -1264,6 +1400,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
@@ -1318,6 +1458,10 @@
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1500,6 +1644,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\4180db4e5d6391a7a85497e8e4fef8a7\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
@@ -1592,6 +1740,10 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -1612,8 +1764,20 @@
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c6b9b2ae8a2f5507ae32c00fae03b340\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\CJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\83b6db9f8f379f265fe2e664665816de\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "C:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",

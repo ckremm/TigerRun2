@@ -1,12 +1,15 @@
 package com.example.cj.running;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.support.v7.widget.Toolbar;
 
 import com.example.cj.tigerrun.R;
 
@@ -22,12 +25,22 @@ public class TrackList extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_track_list);
+        Toolbar tb = (Toolbar) findViewById(R.id.action_bar);
+        setSupportActionBar(tb);
 
         ListView lv = (ListView) findViewById(R.id.traks);
 
         customAdapter customAdapter = new customAdapter();
 
         lv.setAdapter(customAdapter);
+
+        lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(TrackList.this, Map.class);
+                startActivity(intent);
+            }
+        });
     }
 
     class customAdapter extends BaseAdapter{

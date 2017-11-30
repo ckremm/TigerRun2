@@ -72,8 +72,13 @@
             android:label="@string/title_activity_map" />
         <activity
             android:name="com.example.cj.running.TrackList"
-            android:label="Track List" >
-        </activity>
+            android:label="Track List"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name="com.example.cj.running.Track" />
+        <activity
+            android:name="com.example.cj.running.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"

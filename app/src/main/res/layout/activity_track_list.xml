@@ -7,6 +7,10 @@
     android:layout_height="match_parent"
     tools:context="com.example.cj.running.TrackList">
 
+    <include
+        android:id="@+id/actionbar"
+        layout="@layout/action_bar"/>
+
     <ListView
         android:id="@+id/traks"
         android:layout_width="368dp"

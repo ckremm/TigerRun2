@@ -7,22 +7,22 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.0.0"
-    timestamp="1512000144911"
+    timestamp="1512085787726"
     token="1933419697296672501"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="188" />
+        duration="844" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="7" />
+        duration="22" />
     <task
         name="verifier"
-        duration="3" />
+        duration="2" />
 
     <artifact
         location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -30,20 +30,35 @@
 
     <build
         build-mode="FULL"
-        timestamp="1511999289152"
+        timestamp="1512084538138"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
@@ -51,27 +66,22 @@
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1511999352838"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1512084928967"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1512085659273"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\outputs\apk\debug\app-debug.apk"
@@ -80,7 +90,7 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1512000144911"
+        timestamp="1512085787726"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\CJ\StudioProjects\TigerRun2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"

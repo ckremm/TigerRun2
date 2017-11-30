@@ -1,4 +1,4 @@
-#Mon Nov 20 20:02:05 EST 2017
+#Wed Nov 29 18:40:39 EST 2017
 base.0=C\:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
 renamed.0=classes.dex
 file.0=C\:\\Users\\CJ\\StudioProjects\\TigerRun2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19\\classes.dex

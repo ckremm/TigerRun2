@@ -43,18 +43,18 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <service
-            android:name="com.example.cj.tigerrun.GeofenceService"
+            android:name="com.example.cj.running.GeofenceService"
             android:enabled="true"
             android:exported="true" />
 
-        <activity android:name="com.example.cj.tigerrun.Login" >
+        <activity android:name="com.example.cj.running.Login" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.cj.tigerrun.Home" />
+        <activity android:name="com.example.cj.running.Home" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -68,8 +68,12 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.example.cj.tigerrun.Map"
+            android:name="com.example.cj.running.Map"
             android:label="@string/title_activity_map" />
+        <activity
+            android:name="com.example.cj.running.TrackList"
+            android:label="Track List" >
+        </activity>
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"

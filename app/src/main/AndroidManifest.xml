@@ -19,20 +19,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <service
-            android:name=".GeofenceService"
+            android:name="com.example.cj.running.GeofenceService"
             android:enabled="true"
             android:exported="true" />
 
-        <activity android:name=".Login">
+        <activity android:name="com.example.cj.running.Login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Home" />
-        <activity android:name="com.example.cj.running.TrackList"
-            android:label="Tracks"/>
+        <activity android:name="com.example.cj.running.Home" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -46,9 +44,12 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".Map"
+            android:name="com.example.cj.running.Map"
             android:label="@string/title_activity_map" />
-        <activity android:name="com.example.cj.running.TrackList"></activity>
+        <activity
+            android:name="com.example.cj.running.TrackList"
+            android:label="Track List"></activity>
+        <activity android:name="com.example.cj.running.Track"></activity>
     </application>
 
 </manifest>

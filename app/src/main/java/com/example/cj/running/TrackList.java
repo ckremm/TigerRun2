@@ -2,14 +2,72 @@ package com.example.cj.running;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.BaseAdapter;
+import android.widget.ListView;
+import android.widget.TextView;
 
 import com.example.cj.tigerrun.R;
 
+import java.util.ArrayList;
+
 public class TrackList extends AppCompatActivity {
+
+    public tHelper tr;
+    public String[] names;
+    public String[] difs;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_track_list);
+
+        ListView lv = (ListView) findViewById(R.id.traks);
+
+        customAdapter customAdapter = new customAdapter();
+
+        lv.setAdapter(customAdapter);
     }
+
+    class customAdapter extends BaseAdapter{
+
+        @Override
+        public int getCount() {
+            return 5;
+        }
+
+        @Override
+        public Object getItem(int i) {
+            return null;
+        }
+
+        @Override
+        public long getItemId(int i) {
+            return 0;
+        }
+
+        @Override
+        public View getView(int i, View view, ViewGroup viewGroup) {
+            view = getLayoutInflater().inflate(R.layout.customrow, null);
+
+            TextView tv = (TextView) view.findViewById(R.id.tv);
+            TextView tv2= (TextView) view.findViewById(R.id.tv2);
+
+            tr = new tHelper();
+            names = new String[20];
+            difs = new String[20];
+
+            for(int f = 0; f < tr.t.size(); f++){
+                names[i] = tr.t.get(i).getName();
+                difs[i] = Integer.toString(tr.t.get(i).getDif());
+            }
+
+            tv.setText(names[i]);
+            tv2.setText(difs[i]);
+
+            return view;
+        }
+    }
+
 }

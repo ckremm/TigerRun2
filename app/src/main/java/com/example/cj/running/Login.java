@@ -74,7 +74,7 @@ public class Login extends AppCompatActivity {
         //and take the user to profile activity
         if (mAuth.getCurrentUser() != null) {
             finish();
-            startActivity(new Intent(this, Home.class));
+            startActivity(new Intent(this, TrackList.class));
         }
     }
 

@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.location.Location;
+import android.os.Handler;
+import android.os.SystemClock;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
@@ -15,6 +17,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.cj.tigerrun.R;
@@ -52,6 +55,10 @@ public class Map extends AppCompatActivity implements GoogleMap.OnMyLocationButt
     public static final String TAG = "Map";
     public static final String GEOFENCE_ID = "MyGeo";
     private static final LatLng CLEMSON = new LatLng(34.67595302874027, -82.83682249577026);
+
+    long MillisecondTime, StartTime, TimeBuff, UpdateTime = 0L ;
+    int Seconds, Minutes, MilliSeconds ;
+    Handler handler;
 
 
     //Geofence data changed to texas update on return
@@ -201,13 +208,14 @@ public class Map extends AppCompatActivity implements GoogleMap.OnMyLocationButt
     public void onMapReady(GoogleMap googleMap) {
         try {
             map = googleMap;
-            map.moveCamera(CameraUpdateFactory.newLatLngZoom(TEXAS, 15));
+            map.moveCamera(CameraUpdateFactory.newLatLngZoom(CLEMSON, 15));
 
             Circle circle = map.addCircle(new CircleOptions()
-                    .center(TEXAS)
+                    .center(CLEMSON)
                     .radius(20)
-                    .strokeColor(Color.YELLOW)
-                    .fillColor(Color.CYAN));
+                    .fillColor(Color.argb(
+                            200,255,69,0
+                    )));
 
             //startLocationMonitoring();
             map.setMyLocationEnabled(true);
@@ -218,4 +226,30 @@ public class Map extends AppCompatActivity implements GoogleMap.OnMyLocationButt
         }
 
     }
+
+    public Runnable runnable = new Runnable() {
+
+        public void run() {
+
+            MillisecondTime = SystemClock.uptimeMillis() - StartTime;
+
+            UpdateTime = TimeBuff + MillisecondTime;
+
+            Seconds = (int) (UpdateTime / 1000);
+
+            Minutes = Seconds / 60;
+
+            Seconds = Seconds % 60;
+
+            MilliSeconds = (int) (UpdateTime % 1000);
+            TextView t = (TextView) findViewById(R.id.stopw);
+
+            t.setText("" + Minutes + ":"
+                    + String.format("%02d", Seconds) + ":"
+                    + String.format("%03d", MilliSeconds));
+
+            handler.postDelayed(this, 0);
+        }
+
+    };
 }
